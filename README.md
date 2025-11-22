@@ -1,7 +1,7 @@
   # Tecnológico de Software
   ## Materia: Fundamentos de álgebra
   ## Alumno: Jesus Fernando Castro Hernandez
-  ## Actividad \#17 - Documentacion de Matrices en Excel
+  ## Actividad \#20 - Documentacion de Matrices en Excel con Git Branches
   
   ---
 
