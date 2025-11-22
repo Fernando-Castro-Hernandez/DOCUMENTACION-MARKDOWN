@@ -1,6 +1,8 @@
   # Tecnológico de Software
   ## Materia: Fundamentos de álgebra
   ## Alumno: Jesus Fernando Castro Hernandez
+  ## Grupo: 1-A
+  ## Fecha: 22/11/25
   ## Actividad \#20 - Documentacion de Matrices en Excel con Git Branches
   
   ---
@@ -14,6 +16,8 @@ El propósito de esta actividad es trabajar con matrices dentro de Excel, repres
 - Multiplicación escalar  
 - Composición (multiplicación de matrices)
 
+---
+### Estructura de las imagenes
 ---
 
 ## Programación de la hoja de Excel
